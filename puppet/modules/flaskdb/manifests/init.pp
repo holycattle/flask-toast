@@ -8,7 +8,7 @@ define flaskdb (
   $password,
   $host        = 'localhost',
   $driver      = 'postgresql',
-  $path        = '/var/www/angular-momentum/backend/database.json'
+  $path        = '/var/www/flask-toast/database.json'
 ){
   file { 'database.json':
     ensure => 'present',

@@ -3,7 +3,7 @@
 # `puppet apply --modulepath=./modules:./vendor_modules angular-momentum.pp`).
 
 # We declare some global variables here
-$config_directory = '/vagrant/puppet/flask-config'
+$config_directory = '/vagrant/puppet/toast-config'
 $database_name = 'toast_db'
 $database_username = 'toast'
 $database_password = 'toast-password'

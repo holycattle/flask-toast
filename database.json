@@ -1,0 +1,7 @@
+{
+  "driver": "postgresql",
+  "host": "localhost",
+  "user": "toast",
+  "password": "toast-password",
+  "database": "toast_db"
+}
