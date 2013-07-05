@@ -1,4 +1,4 @@
 flask-toast
 ===========
 
-Seed project for Flask (with Vagrant)
+Seed project for Flask (with Vagrant and Postgres).
